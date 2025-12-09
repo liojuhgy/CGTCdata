@@ -1,5 +1,5 @@
 # coding: utf-8
-# tools/generate-u-u-matrix.py
+# tool/generate_user_matrix.py
 import os
 import random
 import numpy as np
