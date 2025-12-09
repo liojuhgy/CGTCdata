@@ -1,0 +1,21 @@
+# Core
+python==3.11.7
+
+# Deep Learning
+torch==2.7.0+cu118
+torchvision==0.22.0+cu118
+torchaudio==2.7.0+cu118
+
+
+# Scientific computing
+numpy>=1.23
+scipy>=1.10
+
+# Data & utilities
+scikit-learn>=1.2
+tqdm>=4.65
+PyYAML>=6.0
+
+# (Optional, if used in your code)
+sentence-transformers
+transformers
