@@ -11,7 +11,7 @@ if __name__ == '__main__':
     parser.add_argument(
         '--config',
         type=str,
-        default='configs/CGTC.yaml'
+        default='config(model)/CGTC.yaml'
     )
 
     args = parser.parse_args()
