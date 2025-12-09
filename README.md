@@ -1,5 +1,7 @@
 # CGTCdata
-
+<p align="center">
+  <img src="overall.jpg" width="700">
+</p>
 ## Pytorch Implementation
 All experiments are conducted using Python 3.11.7 and PyTorch 2.7.0+cu118 on a single NVIDIA V100 GPU.
 
