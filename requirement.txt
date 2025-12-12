@@ -15,7 +15,3 @@ scipy>=1.10
 scikit-learn>=1.2
 tqdm>=4.65
 PyYAML>=6.0
-
-# (Optional, if used in your code)
-sentence-transformers
-transformers
